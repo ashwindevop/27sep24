@@ -3,3 +3,4 @@ le
 appending test1 file
 example of git pull
 example of fetch
+example of fetch2
